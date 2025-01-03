@@ -5,4 +5,4 @@ Go to this website to use:
 https://penguinify.github.io/javascript-injector
 
 Better version here:
-https://disnos9.github.io/jsinject/
+https://disnos9.github.io/jsinject-old/
